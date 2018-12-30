@@ -9,5 +9,5 @@
  - 两类摘引：1.原文内容总结；2.原文摘引。
  - 感想：很久没有这么认真地做一个文档出来了。非常值得一看，不定期更新。
 
- 2018.12.30 update
+ 2018.12.30 update  
  `The Secret of Childhood` PartI-Chapter2
