@@ -10,7 +10,10 @@
  - 感想：很久没有这么认真地做一个文档出来了。非常值得一看，不定期更新。
 
  2018.12.30 update  
- `The Secret of Childhood` PartI- Chapter 2
+ `The Secret of Childhood` Part I - Chapter 2
 
  2019.1.1 update  
- `The Secret of Childhood` Part I- Chapter 3- Section 1
+ `The Secret of Childhood` Part I - Chapter 3 - Section 1
+ 
+ 2019.1.3 update  
+ `The Secret of Childhood` Part I - Chapter 3 - Section 2 & 3
