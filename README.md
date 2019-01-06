@@ -2,6 +2,7 @@
 
  This repository is used to memory my reading notes.
  
+ ## The Secret of Childhood
  2018.12.28 update  
  `The Secret of Childhood` Foreword&PartI-Chapter1
  - 书目简介：蒙台梭利原著、20世纪儿童教育经典书目
@@ -20,3 +21,6 @@
 
  2019.1.4 update   
  `The Secret of childhood` Part I - Chapter 3 - Section 4
+
+ 2019.1.6 update
+ `The Secret of Childhood` Part I - Chapter 3 - Section 5 
