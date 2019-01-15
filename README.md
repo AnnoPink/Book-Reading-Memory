@@ -45,3 +45,6 @@
  
  2019.1.14 update  
  `Thw Secret of Childhood` Part I - Chapter 4 - Section 6
+ 
+ 2019.1.15 update  
+ `The Secret of Childhood` Part I - Chapter 4 - Section 7
