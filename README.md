@@ -51,3 +51,6 @@
  
  2019.1.16 update  
  `Thw Secret of Childhood` Part I - Chapter 4 - Section 8 & 9
+ 
+  2019.1.17 update  
+ `Thw Secret of Childhood` Part I
